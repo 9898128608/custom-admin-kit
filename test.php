@@ -1,1 +1,1 @@
-Let Packagist Sync: Once you push the new tag, Packagist should automatically detect the version from the new tag. You can verify this by checking the Packagist page for your package or triggering a manual update via Packagist.
+Let Packagis
