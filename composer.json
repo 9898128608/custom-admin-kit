@@ -8,9 +8,7 @@
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.9",
-        "laravel/tinker": "^2.9",
-        "vendor/package": "1.0.5",
-        "mayank/star-admin": "1.0.5"
+        "laravel/tinker": "^2.9"
 
     },
     "require-dev": {
