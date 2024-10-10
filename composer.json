@@ -1,6 +1,5 @@
 {
     "name": "mayank/star-admin",
-    "version": "1.0.1",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
