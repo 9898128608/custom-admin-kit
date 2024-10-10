@@ -4,7 +4,7 @@
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.7",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^11.9",
